@@ -1,0 +1,29 @@
+  
+.img-height{
+  height: 30vh;
+}
+
+.img-fit{
+  object-fit: cover;
+}
+
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 50px 0;
+}
+
+.banner h1 {
+  margin: 0;
+  color: black;
+  text-shadow: 0.5px 0.5px 0.5px grey;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.banner p {
+  font-size: 18px;
+  color: black;
+  opacity: .7;
+  text-shadow: 0.5px 0.5px 0.5px grey;
+}

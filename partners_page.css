@@ -1,0 +1,58 @@
+.icones{
+   
+}
+
+.margin-top-bottom-50px {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+ h2 {
+    font-size: 30px;
+    color:rgb(0, 169, 157;);
+}
+
+.partners {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.row {
+    height: 60px;
+    margin: 15px;
+}
+img {
+    vertical-align: middle;
+}
+img {
+    border: 0;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+}
+.text-center {
+    text-align: center;
+}
+
+.size_cardtitle{
+	font-weight: bold;
+	text-align: center;
+	text-decoration: underline;
+}
+.card_height{
+	height: 180px;
+	overflow: auto;
+}
